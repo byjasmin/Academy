@@ -6,7 +6,7 @@
 # 🚀 #TTH | Academy 🎓
 
 > **“Code & Culture: A Journey Through AI, Coding, Cloud, Automation & Next-Gen Careers”**  
-> Launching Juneteenth 2025 — where liberation meets innovation.
+> Where liberation meets innovation | Launching Juneteenth 2025 
 
 ---
 
