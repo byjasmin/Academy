@@ -12,11 +12,11 @@
 
 ## 📖 What Is #TTH Academy?
 #TTH Academy is our home for hands-on, project-driven learning—built **for the culture**, by the culture. We’re uniting underrepresented engineers around the world to:
-- [Master AI fundamentals & LLMs](./01_mastering_large_language_models_and_ai_fundamentals/README.md) through real-world labs
+- [Master AI Fundamentals & LLMs](./01_mastering_large_language_models_and_ai_fundamentals/README.md) through real-world labs
 - [Learn Python with AI](./02_python_programming_for_ai_and_automation/README.md) with hands-on coding exercises, AI library integrations, and real-world projects
-- [Deploy to any Cloud](./03_cloud_infrastructure_and_deployment/README.md) across cloud infra with modern toolchains
+- [Deploy to Any Cloud](./03_cloud_infrastructure_and_deployment/README.md) across cloud infra with modern toolchains
 - [Automate, Automate, Automate](./04_automation_and_no_code_tools/README.md) with no-code workflows, GitHub best practices, and mentoring
-- [Showcase your work and Accelerate your career](./05_career_acceleration_and_capstone_showcase/README.md) in a Capstone week that’s your ticket to the future
+- [Showcase Your Work and Accelerate Your Career](./05_career_acceleration_and_capstone_showcase/README.md) in a Capstone week that’s your ticket to the future
 
 ---
 
